@@ -4,7 +4,10 @@ on:
   schedule:
     # 毎週金曜日 13:00 中国時間 (CST = UTC+8) → UTC 5:00
     - cron: '0 5 * * 5'
-  workflow_dispatch:  # 手動実行も可能
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
