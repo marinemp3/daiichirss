@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0900</lastBuildDate>
-    <item>
-      <title>韓国･4-6月GDPは外需主導で前期比年率＋2.51％と堅調を維持 ～好調な景気の一方､政局を巡る動きは日韓関係の行方にも影響を与える可能性～</title>
-      <link>https://www.dlri.co.jp/report/macro/634593.html</link>
-      <description>韓国･4-6月GDPは外需主導で前期比年率＋2.51％と堅調を維持 ～好調な景気の一方､政局を巡る動きは日韓関係の行方にも影響を与える可能性～</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>オセアニア通貨の｢豪ドル優位｣は復活するか？ ～RBAの追加利上げ観測の再浮上により、豪ドル相場に見直しの可能性～</title>
-      <link>https://www.dlri.co.jp/report/macro/634601.html</link>
-      <description>オセアニア通貨の｢豪ドル優位｣は復活するか？ ～RBAの追加利上げ観測の再浮上により、豪ドル相場に見直しの可能性～</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>台湾･6月輸出受注は半導体をけん引役に過去最高更新（Asia Weekly） ～外需の堅調さを反映して生産も拡大の動きが続いている～</title>
-      <link>https://www.dlri.co.jp/report/macro/634619.html</link>
-      <description>台湾･6月輸出受注は半導体をけん引役に過去最高更新（Asia Weekly） ～外需の堅調さを反映して生産も拡大の動きが続いている～</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0900</lastBuildDate>
     <item>
       <title>トルコ中銀､イラン情勢の再燃で様子見姿勢を維持 ～原油高と異常気象の物価への影響､リラ相場も見通しが立たない展開が続くか～</title>
       <link>https://www.dlri.co.jp/report/macro/634636.html</link>
@@ -307,6 +289,24 @@
       <link>https://www.dlri.co.jp/report/macro/654752.html</link>
       <description>RBNZは緩やかな引き締め示唆､NZドル相場の行方はどうなる？ ～２会合連続の利上げにより､先行きは従来想定より利上げペースの後退を示唆～</description>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブラジル大統領選は激戦必至､左派と右派の対立に新たな動き ～ルラ氏が優位も､物価高・高金利に米国の介入やスキャンダルも重なり逆風も多い～</title>
+      <link>https://www.dlri.co.jp/report/macro/654789.html</link>
+      <description>ブラジル大統領選は激戦必至､左派と右派の対立に新たな動き ～ルラ氏が優位も､物価高・高金利に米国の介入やスキャンダルも重なり逆風も多い～</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>マレーシア中銀､７会合連続で金利据え置きにより様子見姿勢を維持 ～世界的なAI･半導体需要が景気を押し上げるなか､引き続き景気･物価の安定を重視～</title>
+      <link>https://www.dlri.co.jp/report/macro/654795.html</link>
+      <description>マレーシア中銀､７会合連続で金利据え置きにより様子見姿勢を維持 ～世界的なAI･半導体需要が景気を押し上げるなか､引き続き景気･物価の安定を重視～</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国･８月輸出は引き続き半導体がけん引役に（Asia Weekly） ～アジアでは､生活必需品の物価上昇に通貨安も重なり､幅広くインフレ圧力が強まる動き～</title>
+      <link>https://www.dlri.co.jp/report/macro/654804.html</link>
+      <description>韓国･８月輸出は引き続き半導体がけん引役に（Asia Weekly） ～アジアでは､生活必需品の物価上昇に通貨安も重なり､幅広くインフレ圧力が強まる動き～</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
