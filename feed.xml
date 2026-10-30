@@ -7,61 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:00:00 +0900</lastBuildDate>
-    <item>
-      <title>中国経済は供給･外需主導の拡大も内需の弱さは依然として深刻 ～不動産市場の立て直し策相次ぐも、景気底入れの道筋はなお見通せず～</title>
-      <link>https://www.dlri.co.jp/report/macro/660304.html</link>
-      <description>中国経済は供給･外需主導の拡大も内需の弱さは依然として深刻 ～不動産市場の立て直し策相次ぐも、景気底入れの道筋はなお見通せず～</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油市場を揺らす「二つの海峡」の緊張 ～ホルムズ海峡に加えバブ･エル・マンデブ海峡でも供給不安､迂回輸送にも支障～</title>
-      <link>https://www.dlri.co.jp/report/macro/660319.html</link>
-      <description>原油市場を揺らす「二つの海峡」の緊張 ～ホルムズ海峡に加えバブ･エル・マンデブ海峡でも供給不安､迂回輸送にも支障～</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>｢トランプ･インフレ｣に翻弄される新興国経済 ～スーパー・エルニーニョも加わり､インフレと通貨安への警戒感が強まる懸念も～</title>
-      <link>https://www.dlri.co.jp/report/macro/665818.html</link>
-      <description>｢トランプ･インフレ｣に翻弄される新興国経済 ～スーパー・エルニーニョも加わり､インフレと通貨安への警戒感が強まる懸念も～</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>四半期見通し『アジア・新興国～イラン情勢､異常気象､通貨安とインフレ要因は山積～』(2026年10月号)</title>
-      <link>https://www.dlri.co.jp/report/dlri/660262.html</link>
-      <description>四半期見通し『アジア・新興国～イラン情勢､異常気象､通貨安とインフレ要因は山積～』(2026年10月号)</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブラジル中銀は５会合連続の利下げも、緩和継続には慎重姿勢 ～景気減速を重視する一方、原油高・異常気象・財政運営が引き続きインフレリスクに～</title>
-      <link>https://www.dlri.co.jp/report/macro/665843.html</link>
-      <description>ブラジル中銀は５会合連続の利下げも、緩和継続には慎重姿勢 ～景気減速を重視する一方、原油高・異常気象・財政運営が引き続きインフレリスクに～</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>RBNZは追加利上げを実施したが、NZドル相場は上値の重い展開 ～景気は想定以上に底堅い一方、総選挙後の政策枠組み変更が新たな不透明要因に～</title>
-      <link>https://www.dlri.co.jp/report/macro/665879.html</link>
-      <description>RBNZは追加利上げを実施したが、NZドル相場は上値の重い展開 ～景気は想定以上に底堅い一方、総選挙後の政策枠組み変更が新たな不透明要因に～</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>台湾中銀は10会合連続で金利据え置いたが、引き締め傾斜を示唆 ～イラン情勢の影響をAI･半導体需要の旺盛さが相殺､政策姿勢は引き締め方向へ～</title>
-      <link>https://www.dlri.co.jp/report/macro/665888.html</link>
-      <description>台湾中銀は10会合連続で金利据え置いたが、引き締め傾斜を示唆 ～イラン情勢の影響をAI･半導体需要の旺盛さが相殺､政策姿勢は引き締め方向へ～</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インド･８月インフレ率は前年比＋4.82％と､３ヵ月連続で４％超え ～コアインフレ率も４％を上回る伸びに加速､幅広くインフレ圧力が強まっている～</title>
-      <link>https://www.dlri.co.jp/report/macro/665937.html</link>
-      <description>インド･８月インフレ率は前年比＋4.82％と､３ヵ月連続で４％超え ～コアインフレ率も４％を上回る伸びに加速､幅広くインフレ圧力が強まっている～</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ロシア下院選、与党･統一ロシアが３分の２超の議席を維持 ～選挙結果は政権に追い風も、石油製品不足とインフレ再加速で国民生活には逆風が続く～</title>
-      <link>https://www.dlri.co.jp/report/macro/665980.html</link>
-      <description>ロシア下院選、与党･統一ロシアが３分の２超の議席を維持 ～選挙結果は政権に追い風も、石油製品不足とインフレ再加速で国民生活には逆風が続く～</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0900</lastBuildDate>
     <item>
       <title>インドネシア中銀、３会合連続で金利据え置きも､政策運営は難路続く ～中銀総裁･財務相人事を巡る混乱は一巡も、景気下支えとルピア安定の「板挟み」は続く～</title>
       <link>https://www.dlri.co.jp/report/macro/665983.html</link>
@@ -307,6 +253,60 @@
       <link>https://www.dlri.co.jp/report/macro/666840.html</link>
       <description>台湾・９月の輸出受注額も過去最高を更新（Asia Weekly） ～世界的なAI・半導体関連需要の旺盛さが引き続き輸出受注をけん引～</description>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブラジル大統領選、ルラ氏が逆転勝利も政権運営には難路 ～議会での右派勢力拡大が足かせに、財政健全化と家計支援の両立が焦点～</title>
+      <link>https://www.dlri.co.jp/report/macro/666866.html</link>
+      <description>ブラジル大統領選、ルラ氏が逆転勝利も政権運営には難路 ～議会での右派勢力拡大が足かせに、財政健全化と家計支援の両立が焦点～</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ロシア中銀、２会合連続の金利据え置き、インフレ再燃で利下げは遠のくか ～燃料供給制約と期待インフレの高止まりが重しに、低成長下でも高金利が長期化する公算～</title>
+      <link>https://www.dlri.co.jp/report/macro/666877.html</link>
+      <description>ロシア中銀、２会合連続の金利据え置き、インフレ再燃で利下げは遠のくか ～燃料供給制約と期待インフレの高止まりが重しに、低成長下でも高金利が長期化する公算～</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI・半導体で韓国景気は堅調も、「Ｋ字型」の様相が一段と鮮明に ～家計部門の低迷が李政権の重しとなる可能性～</title>
+      <link>https://www.dlri.co.jp/report/macro/666904.html</link>
+      <description>AI・半導体で韓国景気は堅調も、「Ｋ字型」の様相が一段と鮮明に ～家計部門の低迷が李政権の重しとなる可能性～</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブラジルの「トリプル安」は一過性の混乱にとどまるか ～ルラ氏の逆転勝利で財政懸念が再燃、硬直的な歳出構造が信認回復の足かせに～</title>
+      <link>https://www.dlri.co.jp/report/macro/666918.html</link>
+      <description>ブラジルの「トリプル安」は一過性の混乱にとどまるか ～ルラ氏の逆転勝利で財政懸念が再燃、硬直的な歳出構造が信認回復の足かせに～</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>豪ドル相場に持ち直しの兆し、RBAによる追加利上げ観測が再燃 ～住宅市場の調整が懸念される一方、根強いインフレ圧力が金融引き締め継続を後押し～</title>
+      <link>https://www.dlri.co.jp/report/macro/666938.html</link>
+      <description>豪ドル相場に持ち直しの兆し、RBAによる追加利上げ観測が再燃 ～住宅市場の調整が懸念される一方、根強いインフレ圧力が金融引き締め継続を後押し～</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>RBNZの予想外の利上げ見送りで、NZドル相場は一段と弱含むか ～追加利上げの時期や総選挙を巡る不透明感が重なり、豪ドルとの対照的な動きが続くか～</title>
+      <link>https://www.dlri.co.jp/report/macro/666951.html</link>
+      <description>RBNZの予想外の利上げ見送りで、NZドル相場は一段と弱含むか ～追加利上げの時期や総選挙を巡る不透明感が重なり、豪ドルとの対照的な動きが続くか～</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>タイ中銀、インフレ加速も景気支援を重視して４会合連続で金利据え置き ～原油高やバーツ安など物価上昇リスクがくすぶるなか、難しい政策運営が続くであろう～</title>
+      <link>https://www.dlri.co.jp/report/macro/666963.html</link>
+      <description>タイ中銀、インフレ加速も景気支援を重視して４会合連続で金利据え置き ～原油高やバーツ安など物価上昇リスクがくすぶるなか、難しい政策運営が続くであろう～</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中共５中全会閉幕、次期党大会を見据えて党・軍への統制強化を加速 ～経済政策の実効性と日中関係の行方にも注目～</title>
+      <link>https://www.dlri.co.jp/report/macro/672289.html</link>
+      <description>中共５中全会閉幕、次期党大会を見据えて党・軍への統制強化を加速 ～経済政策の実効性と日中関係の行方にも注目～</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国・９月鉱工業生産も半導体をけん引役にした拡大が続く（Asia Weekly） ～半導体のほか、自動車・電装品、電気機械関連など外需が生産を押し上げる～</title>
+      <link>https://www.dlri.co.jp/report/macro/672298.html</link>
+      <description>韓国・９月鉱工業生産も半導体をけん引役にした拡大が続く（Asia Weekly） ～半導体のほか、自動車・電装品、電気機械関連など外需が生産を押し上げる～</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
