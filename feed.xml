@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0900</lastBuildDate>
-    <item>
-      <title>インドネシア中銀、３会合連続で金利据え置きも､政策運営は難路続く ～中銀総裁･財務相人事を巡る混乱は一巡も、景気下支えとルピア安定の「板挟み」は続く～</title>
-      <link>https://www.dlri.co.jp/report/macro/665983.html</link>
-      <description>インドネシア中銀、３会合連続で金利据え置きも､政策運営は難路続く ～中銀総裁･財務相人事を巡る混乱は一巡も、景気下支えとルピア安定の「板挟み」は続く～</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>景気減速にもかかわらず南ア中銀は２会合ぶりの追加利上げを決定 ～原油高やサービス物価を警戒、ランド相場は外部環境に左右される展開が続く～</title>
-      <link>https://www.dlri.co.jp/report/macro/665999.html</link>
-      <description>景気減速にもかかわらず南ア中銀は２会合ぶりの追加利上げを決定 ～原油高やサービス物価を警戒、ランド相場は外部環境に左右される展開が続く～</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トルコ株の混乱が映す「リラ建て資産誘導」の副作用 ～投資信託の急拡大で歪みが蓄積、市場への信認低下が新たなリスクに～</title>
-      <link>https://www.dlri.co.jp/report/macro/666022.html</link>
-      <description>トルコ株の混乱が映す「リラ建て資産誘導」の副作用 ～投資信託の急拡大で歪みが蓄積、市場への信認低下が新たなリスクに～</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>メキシコ中銀、政策判断の自由度を重視 ～３会合連続で金利据え置き､FRB利上げへの機械的追随を否定､ペソ相場はどうなる？～</title>
-      <link>https://www.dlri.co.jp/report/macro/666044.html</link>
-      <description>メキシコ中銀、政策判断の自由度を重視 ～３会合連続で金利据え置き､FRB利上げへの機械的追随を否定､ペソ相場はどうなる？～</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>台湾･８月輸出受注額は過去最高を更新（Asia Weekly） ～オーストラリア･８月失業率は５年ぶりの高水準も､就業者数増加で雇用環境に底堅さ～</title>
-      <link>https://www.dlri.co.jp/report/macro/666053.html</link>
-      <description>台湾･８月輸出受注額は過去最高を更新（Asia Weekly） ～オーストラリア･８月失業率は５年ぶりの高水準も､就業者数増加で雇用環境に底堅さ～</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米中首脳会談で鮮明になった「対立の管理」 ～協力と競争が併存するなか、日本には歴史認識を巡る新たな外交課題も～</title>
-      <link>https://www.dlri.co.jp/report/macro/666062.html</link>
-      <description>米中首脳会談で鮮明になった「対立の管理」 ～協力と競争が併存するなか、日本には歴史認識を巡る新たな外交課題も～</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>RBAは３会合ぶりの利上げ再開も、先行きは慎重姿勢 ～インフレ高止まりを警戒して追加利上げに含みもペース鈍化か､豪ドル相場はどうなる？～</title>
-      <link>https://www.dlri.co.jp/report/macro/666083.html</link>
-      <description>RBAは３会合ぶりの利上げ再開も、先行きは慎重姿勢 ～インフレ高止まりを警戒して追加利上げに含みもペース鈍化か､豪ドル相場はどうなる？～</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国､当局は景気下支え策を強化も内需回復は道半ば ～ＰＭＩは幅広く改善､人民元高基調が続く一方で雇用環境には不透明感が残る～</title>
-      <link>https://www.dlri.co.jp/report/macro/666139.html</link>
-      <description>中国､当局は景気下支え策を強化も内需回復は道半ば ～ＰＭＩは幅広く改善､人民元高基調が続く一方で雇用環境には不透明感が残る～</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国､AI・半導体需要が景気に追い風も､政治への逆風は止まず ～不動産高騰や株価低迷、インフレ懸念が支持率を圧迫、日韓関係への影響にも注目～</title>
-      <link>https://www.dlri.co.jp/report/macro/666170.html</link>
-      <description>韓国､AI・半導体需要が景気に追い風も､政治への逆風は止まず ～不動産高騰や株価低迷、インフレ懸念が支持率を圧迫、日韓関係への影響にも注目～</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ニュージーランド総選挙は新興政党がカギを握る、NZドル相場は？ ～政権交代観測とRBNZのマンデート変更がNZドルの重しに～</title>
-      <link>https://www.dlri.co.jp/report/macro/666203.html</link>
-      <description>ニュージーランド総選挙は新興政党がカギを握る、NZドル相場は？ ～政権交代観測とRBNZのマンデート変更がNZドルの重しに～</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>タイ、洪水被害が景気の新たな重石に ～経済活動への影響が広がるなか、債務増大と金利高止まりが財政対応を制約～</title>
-      <link>https://www.dlri.co.jp/report/macro/666229.html</link>
-      <description>タイ、洪水被害が景気の新たな重石に ～経済活動への影響が広がるなか、債務増大と金利高止まりが財政対応を制約～</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0900</lastBuildDate>
     <item>
       <title>ロシア、財政運営はウクライナ戦争のさらなる長期化を鮮明に ～2027年度予算案はウクライナ戦争の長期化を前提、対日関係改善の道筋も見えにくい～</title>
       <link>https://www.dlri.co.jp/report/macro/666237.html</link>
@@ -307,6 +241,72 @@
       <link>https://www.dlri.co.jp/report/macro/672298.html</link>
       <description>韓国・９月鉱工業生産も半導体をけん引役にした拡大が続く（Asia Weekly） ～半導体のほか、自動車・電装品、電気機械関連など外需が生産を押し上げる～</description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OPECプラスは増産見送りを継続、2027年の生産枠設定が次の焦点 ～足元の供給不足と将来的な供給過剰の双方をにらむ難しい舵取りが続く～</title>
+      <link>https://www.dlri.co.jp/report/macro/672314.html</link>
+      <description>OPECプラスは増産見送りを継続、2027年の生産枠設定が次の焦点 ～足元の供給不足と将来的な供給過剰の双方をにらむ難しい舵取りが続く～</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国･５中全会で党内統治の引き締め強化も、景気には不透明感 ～習近平指導部の４期目入りを見据える一方、景気低迷と株安への対応が課題に～</title>
+      <link>https://www.dlri.co.jp/report/macro/672329.html</link>
+      <description>中国･５中全会で党内統治の引き締め強化も、景気には不透明感 ～習近平指導部の４期目入りを見据える一方、景気低迷と株安への対応が課題に～</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>台湾経済はAI･半導体特需で高成長も、金融市場には調整圧力 ～株安・通貨安とインフレが中銀の政策判断を複雑に～</title>
+      <link>https://www.dlri.co.jp/report/macro/672341.html</link>
+      <description>台湾経済はAI･半導体特需で高成長も、金融市場には調整圧力 ～株安・通貨安とインフレが中銀の政策判断を複雑に～</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>RBAは２回連続の利上げ決定も、景気減速懸念で追加利上げには慎重姿勢 ～インフレ圧力の根強さが利上げを促すも、景気下振れ懸念や追加利上げ期待の後退が豪ドルの重しに～</title>
+      <link>https://www.dlri.co.jp/report/macro/672352.html</link>
+      <description>RBAは２回連続の利上げ決定も、景気減速懸念で追加利上げには慎重姿勢 ～インフレ圧力の根強さが利上げを促すも、景気下振れ懸念や追加利上げ期待の後退が豪ドルの重しに～</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米中の覇権争いに揺れる中南米、「ドンロー主義」の行方はどうなる ～米中間の競争が続くなか、中間選挙後の米国の政策運営と中南米諸国の対応が焦点に～</title>
+      <link>https://www.dlri.co.jp/report/macro/672361.html</link>
+      <description>米中の覇権争いに揺れる中南米、「ドンロー主義」の行方はどうなる ～米中間の競争が続くなか、中間選挙後の米国の政策運営と中南米諸国の対応が焦点に～</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米中間選挙での民主党躍進は、トランプ米政権のイラン政策を変えるか ～議会の制約強化で軍事行動に慎重姿勢も、外交交渉の停滞や紛争再拡大のリスクは残る～</title>
+      <link>https://www.dlri.co.jp/report/macro/672371.html</link>
+      <description>米中間選挙での民主党躍進は、トランプ米政権のイラン政策を変えるか ～議会の制約強化で軍事行動に慎重姿勢も、外交交渉の停滞や紛争再拡大のリスクは残る～</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブラジル中銀は６会合ぶりに金利据え置き、ルラ再選による財政不安が影響 ～財政運営への信認回復が利下げ再開のカギに、高金利の長期化とレアル安への警戒続く～</title>
+      <link>https://www.dlri.co.jp/report/macro/672403.html</link>
+      <description>ブラジル中銀は６会合ぶりに金利据え置き、ルラ再選による財政不安が影響 ～財政運営への信認回復が利下げ再開のカギに、高金利の長期化とレアル安への警戒続く～</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インドネシア経済は堅調な成長続くも、その持続性には不透明感が残る ～７-９月GDPは加速も、金融市場の混乱長期化、高成長と投資低迷の乖離に懸念～</title>
+      <link>https://www.dlri.co.jp/report/macro/672410.html</link>
+      <description>インドネシア経済は堅調な成長続くも、その持続性には不透明感が残る ～７-９月GDPは加速も、金融市場の混乱長期化、高成長と投資低迷の乖離に懸念～</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>マレーシア中銀は８会合連続で金利据え置き、先行きは利上げ転換も視野に ～AI・半導体需要が景気を支えるなか、2027年の物価上昇圧力の強まりが政策判断のカギに～</title>
+      <link>https://www.dlri.co.jp/report/macro/672428.html</link>
+      <description>マレーシア中銀は８会合連続で金利据え置き、先行きは利上げ転換も視野に ～AI・半導体需要が景気を支えるなか、2027年の物価上昇圧力の強まりが政策判断のカギに～</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>メキシコ中銀は４会合ぶりの利下げ実施も、「一度限りの調整」を強調 ～インフレ懸念が残るなかで長期の金利据え置きも、ペソ相場は上値の重い展開が続くか～</title>
+      <link>https://www.dlri.co.jp/report/macro/672470.html</link>
+      <description>メキシコ中銀は４会合ぶりの利下げ実施も、「一度限りの調整」を強調 ～インフレ懸念が残るなかで長期の金利据え置きも、ペソ相場は上値の重い展開が続くか～</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ニュージーランド､７-９月失業率は11年ぶりの高水準（Asia Weekly） ～アジア新興国で幅広くインフレ圧力が強まる動きが確認される～</title>
+      <link>https://www.dlri.co.jp/report/macro/672487.html</link>
+      <description>ニュージーランド､７-９月失業率は11年ぶりの高水準（Asia Weekly） ～アジア新興国で幅広くインフレ圧力が強まる動きが確認される～</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
