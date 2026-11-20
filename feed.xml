@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0900</lastBuildDate>
-    <item>
-      <title>台湾・９月輸出、半導体などの旺盛さを反映して過去最高に（Asia Weekly） ～原油価格の再上昇を受けて、多くのアジア新興国でインフレ率が再び加速～</title>
-      <link>https://www.dlri.co.jp/report/macro/666455.html</link>
-      <description>台湾・９月輸出、半導体などの旺盛さを反映して過去最高に（Asia Weekly） ～原油価格の再上昇を受けて、多くのアジア新興国でインフレ率が再び加速～</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インドネシア、財務相に続いて外相も交代、実務重視への軌道修正か ～実務家の登用で政策への信頼は回復するか、焦点は大統領主導の政権運営～</title>
-      <link>https://www.dlri.co.jp/report/macro/666465.html</link>
-      <description>インドネシア、財務相に続いて外相も交代、実務重視への軌道修正か ～実務家の登用で政策への信頼は回復するか、焦点は大統領主導の政権運営～</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シンガポール通貨庁､市場予想に反して金融政策を据え置き ～インフレ長期化と景気減速のリスクが併存、物価安定と景気配慮の両立が課題に～</title>
-      <link>https://www.dlri.co.jp/report/macro/666539.html</link>
-      <description>シンガポール通貨庁､市場予想に反して金融政策を据え置き ～インフレ長期化と景気減速のリスクが併存、物価安定と景気配慮の両立が課題に～</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>足元の中国経済は、物価の二極化と外需依存が一段と鮮明に ～企業部門のインフレと家計部門のディスインフレが共存、輸出好調による人民元高の行方は～</title>
-      <link>https://www.dlri.co.jp/report/macro/666553.html</link>
-      <description>足元の中国経済は、物価の二極化と外需依存が一段と鮮明に ～企業部門のインフレと家計部門のディスインフレが共存、輸出好調による人民元高の行方は～</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インド中銀、ルピー防衛に向けて異例の措置を相次ぎ導入 ～原油高と資金流出による通貨安圧力は残る、外貨準備の減少や企業負担の増加に懸念～</title>
-      <link>https://www.dlri.co.jp/report/macro/666569.html</link>
-      <description>インド中銀、ルピー防衛に向けて異例の措置を相次ぎ導入 ～原油高と資金流出による通貨安圧力は残る、外貨準備の減少や企業負担の増加に懸念～</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国株が急落、AI・半導体好況の陰で市場の調整が深まる ～AI投資の先行き不安や米国の金利上昇、外国人投資家の売却圧力が重しに～</title>
-      <link>https://www.dlri.co.jp/report/macro/666600.html</link>
-      <description>韓国株が急落、AI・半導体好況の陰で市場の調整が深まる ～AI投資の先行き不安や米国の金利上昇、外国人投資家の売却圧力が重しに～</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インドネシア株に逆風、MSCIが「スタンドアローン」への格下げ検討 ～新興国市場からの除外を検討、市場の透明性とガバナンスに向けた改革の行方が焦点に～</title>
-      <link>https://www.dlri.co.jp/report/macro/666610.html</link>
-      <description>インドネシア株に逆風、MSCIが「スタンドアローン」への格下げ検討 ～新興国市場からの除外を検討、市場の透明性とガバナンスに向けた改革の行方が焦点に～</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>MSCI、トルコ株式指数の変更を凍結し、格下げの可能性を警告 ～トルコ株式市場の混乱は長期化の様相、MSCIは改革の進捗を注視～</title>
-      <link>https://www.dlri.co.jp/report/macro/666650.html</link>
-      <description>MSCI、トルコ株式指数の変更を凍結し、格下げの可能性を警告 ～トルコ株式市場の混乱は長期化の様相、MSCIは改革の進捗を注視～</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インド、９月インフレ率は前年比＋5.54％に一段と加速（Asia Weekly） ～オーストラリア、大都市部を中心とする雇用に変調の兆し～</title>
-      <link>https://www.dlri.co.jp/report/macro/666673.html</link>
-      <description>インド、９月インフレ率は前年比＋5.54％に一段と加速（Asia Weekly） ～オーストラリア、大都市部を中心とする雇用に変調の兆し～</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国・７-９月 GDP は前年比＋4.5％に加速も、外需依存の構図は変わらず ～供給サイドが成長をけん引する一方、個人消費と不動産は力強さを欠く展開が続く～</title>
-      <link>https://www.dlri.co.jp/report/macro/666711.html</link>
-      <description>中国・７-９月 GDP は前年比＋4.5％に加速も、外需依存の構図は変わらず ～供給サイドが成長をけん引する一方、個人消費と不動産は力強さを欠く展開が続く～</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>内外経済ウォッチ『アジア・新興国～AI半導体は韓国景気に追い風も､政治の逆風が続く～』(2026年11月号)</title>
-      <link>https://www.dlri.co.jp/report/dlri/666659.html</link>
-      <description>内外経済ウォッチ『アジア・新興国～AI半導体は韓国景気に追い風も､政治の逆風が続く～』(2026年11月号)</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0900</lastBuildDate>
     <item>
       <title>コロンビア、右派政権誕生で対米関係改善、ペソ相場に持ち直しの動き ～原油高と高金利が支え、先行きは政策実現力とインフレ対応が焦点～</title>
       <link>https://www.dlri.co.jp/report/macro/666740.html</link>
@@ -307,6 +241,72 @@
       <link>https://www.dlri.co.jp/report/macro/678215.html</link>
       <description>中東産油国の原油生産は回復進むも、供給不安の払拭にはほど遠い ～輸送経路の再構築が生産回復を後押しも、イラン情勢やフーシ派の動向が先行きを左右～</description>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>外需依存を強める中国経済が直面するジレンマ ～内需低迷が長期化するなか、人民元高への警戒と景気対策の限界が浮き彫りに～</title>
+      <link>https://www.dlri.co.jp/report/macro/678277.html</link>
+      <description>外需依存を強める中国経済が直面するジレンマ ～内需低迷が長期化するなか、人民元高への警戒と景気対策の限界が浮き彫りに～</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>タイ・７-９月GDPは外需主導で底堅さをみせるも、先行きは不透明 ～AI・半導体需要が下支えする一方、インフレと異常気象が内需の重しに～</title>
+      <link>https://www.dlri.co.jp/report/macro/678294.html</link>
+      <description>タイ・７-９月GDPは外需主導で底堅さをみせるも、先行きは不透明 ～AI・半導体需要が下支えする一方、インフレと異常気象が内需の重しに～</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米中ロ首脳会談は国際秩序の転換点となるか ～協調期待の一方で「新たなヤルタ体制」への懸念も、ミドルパワーの外交戦略が問われる～</title>
+      <link>https://www.dlri.co.jp/report/macro/678301.html</link>
+      <description>米中ロ首脳会談は国際秩序の転換点となるか ～協調期待の一方で「新たなヤルタ体制」への懸念も、ミドルパワーの外交戦略が問われる～</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>内外経済ウォッチ『アジア・新興国～台湾､AI･半導体特需で高成長も､金融市場に懸念材料～』(2026年12月号)</title>
+      <link>https://www.dlri.co.jp/report/dlri/678242.html</link>
+      <description>内外経済ウォッチ『アジア・新興国～台湾､AI･半導体特需で高成長も､金融市場に懸念材料～』(2026年12月号)</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>マレーシア･７-９月GDPはAI・半導体需要を追い風に堅調な拡大が続く ～高成長が続く一方、AI関連規制や外部環境の変化が先行きの不透明要因に～</title>
+      <link>https://www.dlri.co.jp/report/macro/678370.html</link>
+      <description>マレーシア･７-９月GDPはAI・半導体需要を追い風に堅調な拡大が続く ～高成長が続く一方、AI関連規制や外部環境の変化が先行きの不透明要因に～</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インドネシア中銀はルピア安阻止へ利上げも、政策運営の難しさは増す一方 ～政府の景気下支え要請と金融市場の通貨安定要求との「板挟み」が続く可能性～</title>
+      <link>https://www.dlri.co.jp/report/macro/678414.html</link>
+      <description>インドネシア中銀はルピア安阻止へ利上げも、政策運営の難しさは増す一方 ～政府の景気下支え要請と金融市場の通貨安定要求との「板挟み」が続く可能性～</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国の先端半導体規制は新たな段階へ、中国のAI開発に広がる包囲網 ～第三国経由の利用も制限、米中の技術分断が進むなかで問われる日本の対応～</title>
+      <link>https://www.dlri.co.jp/report/macro/678419.html</link>
+      <description>米国の先端半導体規制は新たな段階へ、中国のAI開発に広がる包囲網 ～第三国経由の利用も制限、米中の技術分断が進むなかで問われる日本の対応～</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>豪ドル相場を取り巻く環境に変化、先行きは下値を探る展開も ～雇用環境の悪化でRBAの追加利上げ観測が後退、金融政策の方向性の違いも重しに～</title>
+      <link>https://www.dlri.co.jp/report/macro/678430.html</link>
+      <description>豪ドル相場を取り巻く環境に変化、先行きは下値を探る展開も ～雇用環境の悪化でRBAの追加利上げ観測が後退、金融政策の方向性の違いも重しに～</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>南ア中銀はインフレ加速下でも利上げを一時停止、ランド相場の先行きは？ ～追加利上げに含みも、米ドル高や金価格の下落、政治的不透明感がランド相場の重しに～</title>
+      <link>https://www.dlri.co.jp/report/macro/678439.html</link>
+      <description>南ア中銀はインフレ加速下でも利上げを一時停止、ランド相場の先行きは？ ～追加利上げに含みも、米ドル高や金価格の下落、政治的不透明感がランド相場の重しに～</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米中ロ首脳会談とはなんだったのか？ ～４分野で協調を確認も、具体的成果は限定的、問われる法の支配と日本の外交戦略～</title>
+      <link>https://www.dlri.co.jp/report/macro/678450.html</link>
+      <description>米中ロ首脳会談とはなんだったのか？ ～４分野で協調を確認も、具体的成果は限定的、問われる法の支配と日本の外交戦略～</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>台湾・10月輸出受注額は過去最高を更新（Asia Weekly） ～世界的なAI・半導体関連需要の旺盛さを追い風に、米国向けなどで高い伸びが続く～</title>
+      <link>https://www.dlri.co.jp/report/macro/678453.html</link>
+      <description>台湾・10月輸出受注額は過去最高を更新（Asia Weekly） ～世界的なAI・半導体関連需要の旺盛さを追い風に、米国向けなどで高い伸びが続く～</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
